@@ -43,4 +43,4 @@ switch ($answer_key) {
         $_SESSION['result'] = array('Beklager, vi har ikke svaret på dit spørgsmål, prøv at ringe til en ven!');
 }
 
-header("Location: /tmp");
+header("Location: /GruppeOpdagelsePHP/Lailas_assignment.php");
