@@ -7,7 +7,7 @@ session_start();
     <title></title>
 </head>
 <body>
-<form action="search.php" method="post">
+<form action="Lailas_assignment.php" method="post">
     <input type="text" name="search">
     <input type="submit">
 </form>
