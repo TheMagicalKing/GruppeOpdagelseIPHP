@@ -28,7 +28,7 @@
 	    $sql = "CREATE TABLE user (
 	    id int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL, 
 	    username TINYTEXT NOT NULL,
-		password LONGTEXT NOT NULL)";
+		psw LONGTEXT NOT NULL)";
 
 	    // use exec() because no results are returned
 	    $conn->exec($sql);
@@ -38,4 +38,3 @@
 	    echo $e->getMessage() . "<br>";
 	}
 	$conn = null;
-	?>

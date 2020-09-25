@@ -1,0 +1,8 @@
+.qweContainer {
+  position: absolute;
+  top: 20vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 1px;
+}
