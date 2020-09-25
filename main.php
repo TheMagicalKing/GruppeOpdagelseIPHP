@@ -19,7 +19,7 @@
     <ul>
         <li><a href="Laila_search.php">Laila Search</a></li>
         <li><a href="mik.php">Mik</a></li>
-        <li><a href="Lommeregner.php">Nicki Lommeregner</a></li>
+        <li><a href="Nicki.php">Nicki Lommeregner</a></li>
     </ul>
 </body>
 </html>
